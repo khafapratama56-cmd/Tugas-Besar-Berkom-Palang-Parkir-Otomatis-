@@ -1,4 +1,5 @@
-Tugas Besar Berpikir Komputasional
+Tugas Besar Berpikir Komputasional Kelompok 34
+
 Anggota Kelompok : 
 - Khafa Pratama (19626200)
 - Emily Elizabeth Christian (16526014)
