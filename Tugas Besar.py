@@ -1,3 +1,10 @@
+# Tugas Besar Berpikir Komputasional Kelompok 10 K-34
+# Anggota Kelompok :
+# Khafa Pratama (19626200)
+# Emily Elizabeth Christian (16526014)
+# Puti Naira Izzati (16526146)
+# Cokorda Istri Gita Kamalini (16526236)
+
 # Slot Parkir
 jumlah_parkir_mobil = 15
 jumlah_parkir_motor = 20
